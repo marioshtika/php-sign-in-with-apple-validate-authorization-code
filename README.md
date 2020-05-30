@@ -40,4 +40,4 @@ try {
 
 Generate the client secret
 -------
-Use this [repository](https://github.com/marioshtika/php-sign-in-with-apple-generate-client-secret) to generate the client secret
+Use this [repository](https://github.com/marioshtika/php-sign-in-with-apple-generate-client-secret) (ruby) or this [repository](https://github.com/kissdigital-com/apple-sign-in-client-secret-generator) (php) to generate the client secret
